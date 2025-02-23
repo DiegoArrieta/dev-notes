@@ -7,7 +7,7 @@ Welcome to my personal developer notes repository. Here, I will store everything
 ## 🚀 Tech Stack & Tools
 
 - **Frontend:** React.js, Next.js, React Native  
-- **Backend:** NestJS, Django, Prisma  
+- **Backend:** [NestJS](backend/NestJS.md), Django, Prisma  
 - **Databases:** PostgreSQL, DynamoDB  
 - **DevOps:** AWS (Lambda, Amplify, SES, S3)  
 - **Message Brokers:** RabbitMQ  
