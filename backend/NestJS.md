@@ -14,3 +14,12 @@ npx prisma migrate dev --name init
 ```sh
 npm i --save class-validator class-transformer
 ```
+
+# Auth implementation
+
+### Add libraries
+
+```sh
+npm i @nestjs/jwt passport-jwt bcryptjs
+npm i -D @types/bcrypt @types/passport-jwt @types/bcrypt
+```
